@@ -15,6 +15,6 @@ Back End: -
 
  If you get any errors reagarding the Front End or the Back End you contact me with my email. while writing the please include the screen shot of error so i can solve that errors
  My Email:- potthuricharanpadmasrikhar@gmail.com 
- My Mobile NUmber: -8639578367(Don't call only Text on WhatsApp)
+ My Mobile Number: -8639578367(Don't call only Text on WhatsApp)
 
  You can ping me in WhatsApp also with the same number.
