@@ -1,0 +1,9 @@
+ul li{
+    display: inline;
+    padding-left: 0.5cm;
+    /* color: white; */
+    cursor: pointer;
+}
+ul{
+    margin: 0px;
+}
